@@ -1,0 +1,7 @@
+C:\Users\usuario\OneDrive\Documentos\1º DAW\ED\UD4\ProyectosVS_2019\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe.config
+C:\Users\usuario\OneDrive\Documentos\1º DAW\ED\UD4\ProyectosVS_2019\GetStartedDebugging\bin\Debug\GetStartedDebugging.exe
+C:\Users\usuario\OneDrive\Documentos\1º DAW\ED\UD4\ProyectosVS_2019\GetStartedDebugging\bin\Debug\GetStartedDebugging.pdb
+C:\Users\usuario\OneDrive\Documentos\1º DAW\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Documentos\1º DAW\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Documentos\1º DAW\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\GetStartedDebugging.exe
+C:\Users\usuario\OneDrive\Documentos\1º DAW\ED\UD4\ProyectosVS_2019\GetStartedDebugging\obj\Debug\GetStartedDebugging.pdb
